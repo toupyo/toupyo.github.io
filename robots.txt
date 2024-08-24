@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toupyo.github.io/sitemap.xml
