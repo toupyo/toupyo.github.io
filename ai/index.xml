@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>人工智能 on WOOP</title><link>https://toupyo.github.io/ai/</link><description>Recent content in 人工智能 on WOOP</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 Louaq</copyright><lastBuildDate>Mon, 26 Aug 2024 16:43:09 +0800</lastBuildDate><atom:link href="https://toupyo.github.io/ai/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工智能 on WOOP</title>
+    <link>http://localhost:1313/ai/</link>
+    <description>Recent content in 人工智能 on WOOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 Louaq</copyright>
+    <lastBuildDate>Wed, 02 Oct 2024 10:46:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/ai/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
