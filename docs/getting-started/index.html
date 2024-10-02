@@ -216,10 +216,10 @@
             
             
             
-  <a href="/ai/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/docs/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        人工智能
+        文档
     </p>
 </a>
 
@@ -227,10 +227,10 @@
 
             
             
-  <a href="/docs/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/pytorch/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        文档
+        pytorch教程
     </p>
 </a>
 
@@ -405,10 +405,10 @@
 
                     
   <li class="mt-1">
-    <a href="/ai/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/docs/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            人工智能
+            文档
         </p>
     </a>
 </li>
@@ -420,10 +420,10 @@
 
                     
   <li class="mt-1">
-    <a href="/docs/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/pytorch/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            文档
+            pytorch教程
         </p>
     </a>
 </li>
@@ -609,9 +609,13 @@
 
 
 
+  
 
 
 
+
+
+  
 
 
 
@@ -636,7 +640,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">5 分钟</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">0001-01-01</time><span class="px-2 text-primary-500">&middot;</span><span>2406 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">5 分钟</span><span class="px-2 text-primary-500">&middot;</span>
 
 
   
@@ -750,14 +754,6 @@
     
 
     
-
-    
-      
-      
-
-      
-
-      
 
     
 
@@ -934,7 +930,7 @@
       <div class="min-w-0 min-h-0 max-w-fit">
         
         
-<details style="margin-left:0px" class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5" >
+<details style="margin-left:0px" class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5"  open >
     
     <summary
         class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
@@ -1690,7 +1686,7 @@
 </span></span><span class="line"><span class="cl">  <span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;https://external-link&#34;</span>
 </span></span></code></pre></div><p><code>name</code> 参数用于指定菜单中的文本。你还可以选择性的提供一个 <code>title</code> 标题，它将会被填充到链接的 HTML 代码的 <code>title</code> 属性中。</p>
 <p><code>pageRef</code> 参数用于引用 Hugo 的分类。这是配置菜单最简单的方法，你无需引用任何 Hugo 内容项，它会自动构建正确的链接。如果你需要链接到外部 URL，那么可以使用 <code>url</code> 参数。</p>
-<p><code>pre</code> 参数用于设置菜单条目上的图标，这个图标需要是 <a href="http://localhost:1313/samples/icons/">Blowfish 图标集</a>中的一个。这个参与可以和 <code>name</code> 一起使用，也可以单独使用。如果你指向展示图标，请设置 <code>identifier</code> 参数，否则 Hugo 将默认使用 <code>name</code> 作为 id，可能不会显示所有菜单项。</p>
+<p><code>pre</code> 参数用于设置菜单条目上的图标，这个图标需要是 <a href="">Blowfish 图标集</a>中的一个。这个参与可以和 <code>name</code> 一起使用，也可以单独使用。如果你指向展示图标，请设置 <code>identifier</code> 参数，否则 Hugo 将默认使用 <code>name</code> 作为 id，可能不会显示所有菜单项。</p>
 <p>菜单中的多个链接将会根据 <code>weight</code> 权重参数进行从低到高排序，如果权重值一样那么会按照 <code>name</code> 字母顺序排序。</p>
 <p>这两个菜单都是完全可选的，如果不需要也可以注释掉。你可以使用文件中提供的模板作为示例。</p>
 
@@ -1769,7 +1765,7 @@
     
 </h2>
 <p>Blowfish 的创立开端旨在便于为文章添加视觉效果。如果你熟悉 Hugo 的文章结构，只需要在你文章所在的文件夹中，放置一个以<code>feature*</code>开头的图像文件（Blowfish支持所有格式的文件，但更推荐使用 <code>.png</code> 或 <code>.jpg</code>）。就这样，Blowfish 就能够将图像文件作为文章的缩略图，而且能够在社交平台的 <code>&lt;a target=&quot;_blank&quot; href=&quot;https://oembed.com/&quot;&gt;oEmbed&lt;/a&gt;</code> 卡片中使用。</p>
-<p><a href="http://localhost:1313/docs/thumbnails/">这里</a> 有一个指南，提供了个人更多的内容和<a href="http://localhost:1313/samples/thumbnail_sample/">示例</a>。如果你想看看具体如何操作可以看这里。</p>
+<p><a href="http://localhost:1313/docs/thumbnails/">这里</a> 有一个指南，提供了个人更多的内容和<a href="">示例</a>。如果你想看看具体如何操作可以看这里。</p>
 <p>Blowfish 还支持在文章和列表中使用背景图。为了使与缩略图不同，可以添加一个名为 <code>background*</code> 开头的图像文件。当然如果你没有设置背景图片，Blowfish 会默认使用缩略图作为背景图。</p>
 
 
@@ -1790,6 +1786,72 @@
           
         </div>
         
+        
+
+          
+            
+            
+<div class="flex author">
+  
+    
+    
+      
+    
+    
+      
+        
+      
+      <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
+      alt="Louaq" src="/img/blowfish_logo_hu10440971084165979012.png" />
+    
+  
+  <div class="place-self-center">
+    
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      作者
+    </div>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      Louaq
+    </div>
+    
+    
+    <div class="text-sm text-neutral-700 dark:text-neutral-400">最是人间留不住，朱颜辞镜花辞树</div>
+    
+    <div class="text-2xl sm:text-lg">
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://github.com/Louaq"
+          target="_blank"
+          aria-label="Github"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+  </div>
+
+</div>
+  </div>
+</div>
+
+          
+
+          
+
+          
+          <div class="mb-10"></div>
+          
+
         
 
         
@@ -1976,9 +2038,13 @@
 
 
 
+  
 
 
 
+
+
+  
 
 
 
@@ -1999,7 +2065,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">4 分钟</span>
+  <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">0001-01-01</time><span class="px-2 text-primary-500">&middot;</span><span>1907 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">4 分钟</span>
   
 
   
@@ -2101,9 +2167,13 @@
 
 
 
+  
 
 
 
+
+
+  
 
 
 
@@ -2124,7 +2194,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">14 分钟</span>
+  <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">0001-01-01</time><span class="px-2 text-primary-500">&middot;</span><span>6679 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">14 分钟</span>
   
 
   
@@ -2226,9 +2296,13 @@
 
 
 
+  
 
 
 
+
+
+  
 
 
 
@@ -2249,7 +2323,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">3 分钟</span>
+  <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">0001-01-01</time><span class="px-2 text-primary-500">&middot;</span><span>1220 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">3 分钟</span>
   
 
   
@@ -2382,6 +2456,8 @@
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
+                    <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">0001-01-01</time>
+                  
                 </span>
               </span>
             </a>
@@ -2396,6 +2472,8 @@
                   >配置</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">0001-01-01</time>
                   
                 </span>
               </span>

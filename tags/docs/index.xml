@@ -9,13 +9,15 @@
     <copyright>© 2024 Louaq</copyright>
     <atom:link href="http://localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>简码</title>
-      <link>http://localhost:1313/docs/shortcodes/</link>
+      <title>Installation</title>
+      <link>http://localhost:1313/docs/tree/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/shortcodes/</guid>
-      <description>除了所有默认 Hugo 简码 之外，Blowfish 还添加了一些额外的功</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
+      <guid>http://localhost:1313/docs/tree/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation #These instructions will get you up and running using Hugo and Blowfish from a completely blank state.</description>
+      
     </item>
     
   </channel>

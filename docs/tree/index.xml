@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AHTTR on WOOP</title><link>https://toupyo.github.io/docs/tree/</link><description>Recent content in AHTTR on WOOP</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 Louaq</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://toupyo.github.io/docs/tree/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on WOOP</title>
+    <link>http://localhost:1313/docs/tree/</link>
+    <description>Recent content in test on WOOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 Louaq</copyright>
+    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/docs/tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/docs/tree/installation/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/tree/installation/</guid>
+      <description>Segui semplicemente la procedura standard Avvio Rapido di Hugo per iniziare subito. Sono riportate le istruzioni dettagliate per l&amp;rsquo;installazione. Sono disponibili anche le istruzioni per aggiornare il tema. Installazione #</description>
+      
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/docs/tree/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/tree/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation #These instructions will get you up and running using Hugo and Blowfish from a completely blank state.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

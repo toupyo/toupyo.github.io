@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 Louaq</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>简码</title>
       <link>http://localhost:1313/docs/shortcodes/</link>
@@ -16,16 +16,6 @@
       <guid>http://localhost:1313/docs/shortcodes/</guid>
       <description>除了所有默认 Hugo 简码 之外，Blowfish 还添加了一些额外的功</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
-    </item>
-    
-    <item>
-      <title>流程图和思维导图</title>
-      <link>http://localhost:1313/samples/diagrams-flowcharts/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/diagrams-flowcharts/</guid>
-      <description>使用 Mermaid 可以轻松地将图表和流程图添加到文章中。</description>
-      
     </item>
     
   </channel>
