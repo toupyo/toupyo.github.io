@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CNN on</title><link>https://toupyo.github.io/tags/cnn/</link><description>Recent content in CNN on</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024</copyright><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://toupyo.github.io/tags/cnn/index.xml" rel="self" type="application/rss+xml"/><item><title>YOLOv8简介</title><link>https://toupyo.github.io/docs/alexnet/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://toupyo.github.io/docs/alexnet/</guid><description>&lt;h2 class="relative group">一、YOLOv8的简介
+&lt;div id="%E4%B8%80yolov8%E7%9A%84%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E4%B8%80yolov8%E7%9A%84%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>YOLO（You Only Look Once）系列算法因其高效、准确等特点而备受瞩目。由2023年Ultralytics公司发布了YOLO的&lt;strong>最新版本YOLOv8是结合前几代YOLO的基础上的一个融合改进版&lt;/strong>。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://toupyo.github.io/docs/alexnet/featured.jpg"/></item></channel></rss>
