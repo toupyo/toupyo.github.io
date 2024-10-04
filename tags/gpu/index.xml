@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GPU on Louaq</title><link>https://toupyo.github.io/tags/gpu/</link><description>Recent content in GPU on Louaq</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 Louaq</copyright><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://toupyo.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml"/><item><title>恒源云</title><link>https://toupyo.github.io/docs/fast-rcnn/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://toupyo.github.io/docs/fast-rcnn/</guid><description>&lt;h2 class="relative group">恒源云
 &lt;div id="%E6%81%92%E6%BA%90%E4%BA%91" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E6%81%92%E6%BA%90%E4%BA%91" aria-label="锚点">#&lt;/a>
-&lt;/span>
 &lt;/h2>
 &lt;p>为当涉及到深度学习的训练任务时，GPU的计算能力是不可或缺的。相对于传统的中央处理器（CPU），图形处理器（GPU）具有更强大的并行计算能力，能够显著加速深度学习模型的训练过程。深度学习算法通常涉及大量的矩阵运算和张量操作，而GPU的并行计算架构使得它们能够高效地执行这些计算，从而加速模型训练的速度。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://toupyo.github.io/docs/fast-rcnn/featured.png"/></item></channel></rss>
