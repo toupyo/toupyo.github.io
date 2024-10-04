@@ -1,24 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Documentation on WOOP</title>
-    <link>http://localhost:1313/series/documentation/</link>
-    <description>Recent content in Documentation on WOOP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>© 2024 Louaq</copyright>
-    <atom:link href="http://localhost:1313/series/documentation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Installation</title>
-      <link>http://localhost:1313/docs/tree/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/tree/installation/</guid>
-      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
-Detailed installation instructions can be found below. Instructions for updating the theme are also available.
-Installation #These instructions will get you up and running using Hugo and Blowfish from a completely blank state.</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentation on Louaq</title><link>https://toupyo.github.io/series/documentation/</link><description>Recent content in Documentation on Louaq</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 Louaq</copyright><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://toupyo.github.io/series/documentation/index.xml" rel="self" type="application/rss+xml"/><item><title>YOLOv8简介</title><link>https://toupyo.github.io/docs/alexnet/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://toupyo.github.io/docs/alexnet/</guid><description>&lt;h2 class="relative group">一、YOLOv8的简介
+&lt;div id="%E4%B8%80yolov8%E7%9A%84%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E4%B8%80yolov8%E7%9A%84%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>YOLO（You Only Look Once）系列算法因其高效、准确等特点而备受瞩目。由2023年Ultralytics公司发布了YOLO的&lt;strong>最新版本YOLOv8是结合前几代YOLO的基础上的一个融合改进版&lt;/strong>。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://toupyo.github.io/docs/alexnet/featured.jpg"/></item><item><title>安装文档</title><link>https://toupyo.github.io/docs/installation/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://toupyo.github.io/docs/installation/</guid><description>&lt;h2 class="relative group">说明文档
+&lt;div id="%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>这篇文档主要介绍《基于YOLOv8的农田病虫害检测与分析》的代码实现部分，整篇论文的目的主要是改进YOLOv8的网络结构，使其在检测病虫害的精度和实时性上有所提升。接下来，我将介绍如何从零开始搭建起本项目。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://toupyo.github.io/docs/installation/featured.jpeg"/></item><item><title>恒源云</title><link>https://toupyo.github.io/docs/fast-rcnn/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://toupyo.github.io/docs/fast-rcnn/</guid><description>&lt;h2 class="relative group">恒源云
+&lt;div id="%E6%81%92%E6%BA%90%E4%BA%91" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%81%92%E6%BA%90%E4%BA%91" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>为当涉及到深度学习的训练任务时，GPU的计算能力是不可或缺的。相对于传统的中央处理器（CPU），图形处理器（GPU）具有更强大的并行计算能力，能够显著加速深度学习模型的训练过程。深度学习算法通常涉及大量的矩阵运算和张量操作，而GPU的并行计算架构使得它们能够高效地执行这些计算，从而加速模型训练的速度。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://toupyo.github.io/docs/fast-rcnn/featured.png"/></item></channel></rss>
